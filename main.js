@@ -2,8 +2,8 @@
 
 /*
  * NOTE: For each question, there is the answer to the given
- * Question, followed by a portion of code that will test the answer.
- * Theses tests can be viewed by running the index.html file and viewing
+ * Question followed by a portion of code that will test the answer.
+ * These tests can be viewed by running the index.html file and
  * viewing the resulting console.
  * 
  */
